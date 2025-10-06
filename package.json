@@ -1,4 +1,23 @@
 {
+  "name": "prog1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lui100cia/Prog1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lui100cia/Prog1/issues"
+  },
+  "homepage": "https://github.com/Lui100cia/Prog1#readme",
+  "description": "",
   "devDependencies": {
     "chai": "^6.2.0",
     "mocha": "^11.7.4"
